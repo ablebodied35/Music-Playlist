@@ -1,0 +1,860 @@
+Lists of songs of each week
+Spotify6.csv
+1 "10000 Hours (with Justin Bieber)"
+2 "223's (feat. 9lokknine)"
+3 "3 Nights"
+4 "7 rings"
+5 "Adicto (with Anuel AA & Ozuna)"
+6 "Adore You"
+7 "All I Want - From ""High School Musical: The Musical: The Series"""
+8 "All of Me"
+9 "Alone
+10 "Ayy Macarena"
+11 "Ballin' (with Roddy Ricch)"
+12 "Bandit (with YoungBoy Never Broke Again)"
+13 "Be Alright"
+14 "Beautiful People (feat. Khalid)"
+15 "Before You Go"
+16 "Bellaquita - Remix"
+17 "Better Now"
+18 "Black Swan"
+19 "Blinding Lights"
+20 "Bohemian Rhapsody - 2011 Mix"
+21 "Break My Stride"
+22 "Can We Kiss Forever?"
+23 "Con Altura"
+24 "Con Calma"
+25 "DJ No Pare (feat. Zion
+26 "Dance Monkey"
+27 "Dancing With A Stranger (with Normani)"
+28 "Don't Start Now"
+29 "Eastside (with Halsey & Khalid)"
+30 "Forever Yours - Avicii Tribute"
+31 "Futsal Shuffle 2020"
+32 "Get Me"
+33 "Get You The Moon (feat. Snøw)"
+34 "Girls Like You (feat. Cardi B)"
+35 "God's Plan"
+36 "Godzilla (feat. Juice WRLD)"
+37 "Going Bad (feat. Drake)"
+38 "Good News"
+39 "Good as Hell (feat. Ariana Grande) - Remix"
+40 "Goodbyes (Feat. Young Thug)"
+41 "HIGHEST IN THE ROOM (feat. ROSAL�?A & Lil Baby) - REMIX"
+42 "HIGHEST IN THE ROOM"
+43 "Hate Me (with Juice WRLD)"
+44 "High Fashion (feat. Mustard)"
+45 "High Hopes"
+46 "Higher Love"
+47 "Hips Don't Lie (feat. Wyclef Jean)"
+48 "Hola - Remix"
+49 "Hot (Remix) [feat. Gunna and Travis Scott]"
+50 "How Do You Sleep?"
+51 "I Do It (ft. Big Sean
+52 "I Don't Care (with Justin Bieber)"
+53 "I Like Me Better"
+54 "If I Can't Have You"
+55 "If The World Was Ending (feat. Julia Michaels)"
+56 "It's You"
+57 "Jocelyn Flores"
+58 "Kein Wort"
+59 "King Of My City"
+60 "LA CANCIÓN"
+61 "Let Me Down Slowly"
+62 "Liberdade Provisória - Ao Vivo"
+63 "Life Is Good (feat. Drake)"
+64 "Lights Up"
+65 "Loco Contigo (feat. J. Balvin & Tyga)"
+66 "Lose Control"
+67 "Lose You To Love Me"
+68 "Lucid Dreams"
+69 "ME! (feat. Brendon Urie of Panic! At The Disco)"
+70 "MIDDLE CHILD"
+71 "Me Gusta"
+72 "Mean It"
+73 "Mon Ami"
+74 "Money In The Grave (Drake ft. Rick Ross)"
+75 "My Oh My (feat. DaBaby)"
+76 "Never Seen the Rain"
+77 "No Guidance (feat. Drake)"
+78 "No Idea"
+79 "No Me Conoce - Remix"
+80 "OUT WEST (feat. Young Thug)"
+81 "Old Town Road - Remix"
+82 "Only Human"
+83 "Only The Young - Featured in Miss Americana"
+84 "Otro Trago - Remix"
+85 "Own It (feat. Ed Sheeran & Burna Boy)"
+86 "Pa' Olvidarme De Ella"
+87 "Perreo en La Luna"
+88 "Piece Of Your Heart"
+89 "QUE PRETENDES"
+90 "Que Calor (with J Balvin & El Alfa)"
+91 "Que Tire Pa Lante"
+92 "RITMO (Bad Boys For Life)"
+93 "Ride It"
+94 "Roses - Imanbek Remix"
+95 "SICKO MODE"
+96 "Say So"
+97 "Say You Won't Let Go"
+98 "Shape of You"
+99 "Si Te Vas"
+100 "Sigues Con El"
+101 "Soltera - Remix"
+102 "Someone You Loved"
+103 "South of the Border (feat. Camila Cabello & Cardi B)"
+104 "Sum 2 Prove"
+105 "Sunday Best"
+106 "Sunflower - Spider-Man: Into the Spider-Verse"
+107 "Sweet but Psycho"
+108 "TOES (feat. Lil Baby & Moneybagg Yo)"
+109 "Talk (feat. Disclosure)"
+110 "The Box"
+111 "The London (feat. J. Cole & Travis Scott)"
+112 "Those Kinda Nights (feat. Ed Sheeran)"
+113 "Trampoline (with ZAYN)"
+114 "Truth Hurts"
+115 "Tudo Ok"
+116 "Turn Me On (feat. Vula)"
+117 "WHATS POPPIN"
+118 "Wake Up Call (feat. Trippie Redd)"
+119 "Watermelon Sugar"
+120 "What A Man Gotta Do"
+121 "What If I Told You That I Love You"
+122 "Whine Up"
+123 "Without Me"
+124 "Yellow Hearts"
+125 "Yo x Ti
+126 "You Need To Calm Down"
+127 "You should be sad"
+128 "all the good girls go to hell"
+129 "bad guy"
+130 "bury a friend"
+131 "everything i wanted"
+132 "hot girl bummer"
+133 "i love you"
+134 "lovely (with Khalid)"
+135 "me & ur ghost"
+136 "ocean eyes"
+137 "rockstar (feat. 21 Savage)"
+138 "thank u
+139 "when the party's over"
+140 "wish you were gay"
+141 "you should see me in a crown"
+142 Anyone
+143 Aventura
+144 BOP
+145 Baby
+146 Believer
+147 Blanco
+148 Bruises
+149 Callaita
+150 China
+151 Circles
+152 EARFQUAKE
+153 Eleven
+154 FML
+155 Falling
+156 Falling
+157 Fantasias
+158 GOODMORNINGTOKYO!
+159 Girl
+160 Graveyard
+161 Happier
+162 Heartless
+163 I.F.L.Y.
+164 Indeciso
+165 Infeliz
+166 July
+167 Lalala
+168 Liar
+169 Maniac
+170 Memories
+171 Moonlight
+172 Morado
+173 Muévelo
+174 Panini
+175 Perfect
+176 Physical
+177 Psycho
+178 Quizas
+179 ROXANNE
+180 Ransom
+181 Rare
+182 Robbery
+183 SAD!
+184 SUGAR
+185 Señorita
+186 Shallow
+187 Sucker
+188 Suge
+189 Suicidal
+190 Takeaway
+191 Tusa
+192 Tutu
+193 VIBEZ
+194 Vete
+195 Woah
+196 Wow.
+197 Youngblood
+198 Yummy
+199 goosebumps
+200 idontwannabeyouanymore
+
+Spotify13.csv
+1 "10000 Hours (with Justin Bieber)"
+2 "3 Nights"
+3 "7 rings"
+4 "A Gente Fez Amor - Ao Vivo"
+5 "Adicto (with Anuel AA & Ozuna)"
+6 "Adore You"
+7 "All I Want - From ""High School Musical: The Musical: The Series"""
+8 "All of Me"
+9 "Alone
+10 "Ayy Macarena"
+11 "Ballin' (with Roddy Ricch)"
+12 "Bandit (with YoungBoy Never Broke Again)"
+13 "Be Alright"
+14 "Beautiful People (feat. Khalid)"
+15 "Before You Go"
+16 "Bellaquita - Remix"
+17 "Better Now"
+18 "Black Swan"
+19 "Blinding Lights"
+20 "Blueberry Faygo"
+21 "Bohemian Rhapsody - 2011 Mix"
+22 "Broke In A Minute"
+23 "Can We Kiss Forever?"
+24 "Con Altura"
+25 "Con Calma"
+26 "DJ No Pare (feat. Zion
+27 "Dance Monkey"
+28 "Dancing With A Stranger (with Normani)"
+29 "Don't Start Now"
+30 "Eastside (with Halsey & Khalid)"
+31 "Forever Yours - Avicii Tribute"
+32 "Futsal Shuffle 2020"
+33 "Get Me"
+34 "Get You The Moon (feat. Snøw)"
+35 "Girls Like You (feat. Cardi B)"
+36 "God's Plan"
+37 "Godzilla (feat. Juice WRLD)"
+38 "Good News"
+39 "Good as Hell (feat. Ariana Grande) - Remix"
+40 "Goodbyes (Feat. Young Thug)"
+41 "HIGHEST IN THE ROOM (feat. ROSAL�?A & Lil Baby) - REMIX"
+42 "HIGHEST IN THE ROOM"
+43 "Hate Me (with Juice WRLD)"
+44 "High Fashion (feat. Mustard)"
+45 "High Hopes"
+46 "Higher Love"
+47 "Hola - Remix"
+48 "Hot (Remix) [feat. Gunna and Travis Scott]"
+49 "How Do You Sleep?"
+50 "I Do It (ft. Big Sean
+51 "I Don't Care (with Justin Bieber)"
+52 "I Like Me Better"
+53 "If I Can't Have You"
+54 "If The World Was Ending (feat. Julia Michaels)"
+55 "It's You"
+56 "Jocelyn Flores"
+57 "Know Your Worth"
+58 "LA CANCIÓN"
+59 "Let Me Down Slowly"
+60 "Liberdade Provisória - Ao Vivo"
+61 "Life Is Good (feat. Drake)"
+62 "Lights Up"
+63 "Loco Contigo (feat. J. Balvin & Tyga)"
+64 "Lose Control"
+65 "Lose You To Love Me"
+66 "Lose Yourself - From ""8 Mile"" Soundtrack"
+67 "Lucid Dreams"
+68 "MIDDLE CHILD"
+69 "Me Gusta"
+70 "Money In The Grave (Drake ft. Rick Ross)"
+71 "My Oh My (feat. DaBaby)"
+72 "Never Seen the Rain"
+73 "No Guidance (feat. Drake)"
+74 "No Idea"
+75 "No Judgement"
+76 "No Me Conoce - Remix"
+77 "No Shame"
+78 "OUT WEST (feat. Young Thug)"
+79 "Old Town Road - Remix"
+80 "Only Human"
+81 "Only The Young - Featured in Miss Americana"
+82 "Otro Trago - Remix"
+83 "Own It (feat. Ed Sheeran & Burna Boy)"
+84 "Pa' Olvidarme De Ella"
+85 "Perreo en La Luna"
+86 "Piece Of Your Heart"
+87 "QUE PRETENDES"
+88 "Que Calor (with J Balvin & El Alfa)"
+89 "Que Tire Pa Lante"
+90 "RITMO (Bad Boys For Life)"
+91 "Ride It"
+92 "Roses - Imanbek Remix"
+93 "SICKO MODE"
+94 "SLOW DANCING IN THE DARK"
+95 "Say So"
+96 "Say You Won't Let Go"
+97 "Shape of You"
+98 "Si Te Vas"
+99 "Sigues Con El"
+100 "Soltera - Remix"
+101 "Someone You Loved"
+102 "South of the Border (feat. Camila Cabello & Cardi B)"
+103 "Still Be Friends (feat. Tory Lanez & Tyga)"
+104 "Sum 2 Prove"
+105 "Sunday Best"
+106 "Sunflower - Spider-Man: Into the Spider-Verse"
+107 "Sweet but Psycho"
+108 "TOES (feat. Lil Baby & Moneybagg Yo)"
+109 "Talk (feat. Disclosure)"
+110 "The Box"
+111 "Too Good At Goodbyes"
+112 "Trampoline (with ZAYN)"
+113 "Truth Hurts"
+114 "WHATS POPPIN"
+115 "Watermelon Sugar"
+116 "What A Man Gotta Do"
+117 "What If I Told You That I Love You"
+118 "Whine Up"
+119 "Without Me"
+120 "Yellow Hearts"
+121 "Yo x Ti
+122 "You Need To Calm Down"
+123 "You should be sad"
+124 "all the good girls go to hell"
+125 "bad guy"
+126 "bury a friend"
+127 "everything i wanted"
+128 "hot girl bummer"
+129 "i love you"
+130 "lovely (with Khalid)"
+131 "me & ur ghost"
+132 "ocean eyes"
+133 "rockstar (feat. 21 Savage)"
+134 "thank u
+135 "when the party's over"
+136 "wish you were gay"
+137 "you should see me in a crown"
+138 Aventura
+139 BOP
+140 Baby
+141 Believer
+142 Birthday
+143 Blanco
+144 Bruises
+145 Callaita
+146 China
+147 Circles
+148 Definitivamente
+149 EARFQUAKE
+150 Eleven
+151 Falling
+152 Falling
+153 Fantasias
+154 GOODMORNINGTOKYO!
+155 Girl
+156 Happier
+157 Heartless
+158 I.F.L.Y.
+159 Indeciso
+160 Infeliz
+161 Intentions
+162 July
+163 Keii
+164 Lalala
+165 Maniac
+166 Medusa
+167 Memories
+168 Moonlight
+169 Morado
+170 Muévelo
+171 Perfect
+172 Photograph
+173 Physical
+174 Psycho
+175 Quizas
+176 ROXANNE
+177 Ransom
+178 Rare
+179 Robbery
+180 Run
+181 SAD!
+182 SUGAR
+183 Señorita
+184 Shallow
+185 Sucker
+186 Suge
+187 Suicidal
+188 Takeaway
+189 Thunder
+190 Tusa
+191 Tutu
+192 VIBEZ
+193 Vete
+194 Weiss
+195 Woah
+196 Wow.
+197 Yikes
+198 Youngblood
+199 Yummy
+200 goosebumps
+
+Spotify20.csv
+1 "10000 Hours (with Justin Bieber)"
+2 "3 Nights"
+3 "7 rings"
+4 "Adicto (with Anuel AA & Ozuna)"
+5 "Adore You"
+6 "After Hours"
+7 "All Around Me"
+8 "All I Want - From ""High School Musical: The Musical: The Series"""
+9 "All of Me"
+10 "Alone
+11 "At Least For Now"
+12 "Ayy Macarena"
+13 "Ballin' (with Roddy Ricch)"
+14 "Bandit (with YoungBoy Never Broke Again)"
+15 "Be Alright"
+16 "Beautiful People (feat. Khalid)"
+17 "Before You Go"
+18 "Bellaquita - Remix"
+19 "Better Now"
+20 "Black Swan"
+21 "Blinding Lights"
+22 "Blueberry Faygo"
+23 "Bohemian Rhapsody - 2011 Mix"
+24 "Breathe Deeper"
+25 "Can We Kiss Forever?"
+26 "Come Around Me"
+27 "Dance Monkey"
+28 "Dancing With A Stranger (with Normani)"
+29 "Don't Start Now"
+30 "Eastside (with Halsey & Khalid)"
+31 "Forever (feat. Post Malone & Clever)"
+32 "Forever Yours - Avicii Tribute"
+33 "Futsal Shuffle 2020"
+34 "Get Me (feat. Kehlani)"
+35 "Get You The Moon (feat. Snøw)"
+36 "Girls Like You (feat. Cardi B)"
+37 "Give No Fxk"
+38 "Go Stupid"
+39 "Godzilla (feat. Juice WRLD)"
+40 "Good News"
+41 "Good as Hell (feat. Ariana Grande)"
+42 "Goodbyes (Feat. Young Thug)"
+43 "HIGHEST IN THE ROOM"
+44 "Hate Me (with Juice WRLD)"
+45 "High Fashion (feat. Mustard)"
+46 "High Hopes"
+47 "Higher Love"
+48 "Hola - Remix"
+49 "How Do You Sleep?"
+50 "I Don't Care (with Justin Bieber)"
+51 "I Like Me Better"
+52 "If I Can't Have You"
+53 "If The World Was Ending (feat. Julia Michaels)"
+54 "Intentions (feat. Quavo)"
+55 "It's You"
+56 "Jocelyn Flores"
+57 "Know Your Worth"
+58 "LA CANCIÓN"
+59 "Liberdade Provisória - Ao Vivo"
+60 "Life Is Good (feat. Drake)"
+61 "Lights Up"
+62 "Lose Control"
+63 "Lose You To Love Me"
+64 "Lose Yourself - From ""8 Mile"" Soundtrack"
+65 "Lost In Yesterday"
+66 "Lucid Dreams"
+67 "Me Gusta"
+68 "Might Not Give Up (feat. Young Thug)"
+69 "Mios mit Bars"
+70 "Money In The Grave (Drake ft. Rick Ross)"
+71 "My Oh My (feat. DaBaby)"
+72 "Never Seen the Rain"
+73 "No Guidance (feat. Drake)"
+74 "No Idea"
+75 "No Judgement"
+76 "No Me Conoce - Remix"
+77 "No Shame"
+78 "No Time To Die"
+79 "Numbers (feat. Roddy Ricch
+80 "OUT WEST (feat. Young Thug)"
+81 "Old Town Road - Remix"
+82 "One More Year"
+83 "Only The Young - Featured in Miss Americana"
+84 "Own It (feat. Ed Sheeran & Burna Boy)"
+85 "Perreo en La Luna"
+86 "Piece Of Your Heart"
+87 "Que Calor (with J Balvin & El Alfa)"
+88 "Que Tire Pa Lante"
+89 "RITMO (Bad Boys For Life)"
+90 "Ride It"
+91 "Roses - Imanbek Remix"
+92 "Running Over (feat. Lil Dicky)"
+93 "SICKO MODE"
+94 "SLOW DANCING IN THE DARK"
+95 "Say So"
+96 "Say You Won't Let Go"
+97 "Second Emotion (feat. Travis Scott)"
+98 "Shape of You"
+99 "Si Te Vas"
+100 "Sigues Con El"
+101 "Soltera - Remix"
+102 "Someone You Loved"
+103 "South of the Border (feat. Camila Cabello & Cardi B)"
+104 "Still Be Friends (feat. Tory Lanez & Tyga)"
+105 "Sunday Best"
+106 "Sunflower - Spider-Man: Into the Spider-Verse"
+107 "Sweet but Psycho"
+108 "TOES (feat. Lil Baby & Moneybagg Yo)"
+109 "Take It Out On Me"
+110 "That's What Love Is"
+111 "The Box"
+112 "The Less I Know The Better"
+113 "To Die For"
+114 "Too Good At Goodbyes"
+115 "Trampoline (with ZAYN)"
+116 "Truth Hurts"
+117 "WHATS POPPIN"
+118 "Watermelon Sugar"
+119 "What A Man Gotta Do"
+120 "What If I Told You That I Love You"
+121 "Whine Up"
+122 "Without Me"
+123 "You Need To Calm Down"
+124 "You should be sad"
+125 "all the good girls go to hell"
+126 "bad guy"
+127 "bury a friend"
+128 "death bed (feat. beabadoobee)"
+129 "everything i wanted"
+130 "hot girl bummer"
+131 "i love you"
+132 "lovely (with Khalid)"
+133 "me & ur ghost"
+134 "ocean eyes"
+135 "rockstar (feat. 21 Savage)"
+136 "thank u
+137 "when the party's over"
+138 "wish you were gay"
+139 "you should see me in a crown"
+140 Available
+141 Aventura
+142 BOP
+143 Baby
+144 Believer
+145 Blanco
+146 Borderline
+147 Bruises
+148 Callaita
+149 Changes
+150 China
+151 Circles
+152 Confirmation
+153 Definitivamente
+154 Diosa
+155 E.T.A.
+156 Falling
+157 Falling
+158 Fantasias
+159 GOODMORNINGTOKYO!
+160 Girl
+161 Habitual
+162 Happier
+163 Heartless
+164 I.F.L.Y.
+165 Ignorantes
+166 Indeciso
+167 Infeliz
+168 July
+169 Keii
+170 Lalala
+171 Maniac
+172 Medusa
+173 Memories
+174 Moonlight
+175 Morado
+176 Muévelo
+177 Perfect
+178 Physical
+179 Quizas
+180 ROXANNE
+181 Ransom
+182 Rare
+183 Robbery
+184 Run
+185 SAD!
+186 SUGAR
+187 Señorita
+188 Shallow
+189 Sucker
+190 Suicidal
+191 Takeaway
+192 Tusa
+193 Tutu
+194 VIBEZ
+195 Vete
+196 Woah
+197 Wow.
+198 Youngblood
+199 Yummy
+200 goosebumps
+
+
+WEEKLY SONGS THIS QUARTER JOINED PLAYLIST
+1 "10000 Hours (with Justin Bieber)"
+2 "223's (feat. 9lokknine)"
+3 "3 Nights"
+4 "7 rings"
+5 "A Gente Fez Amor - Ao Vivo"
+6 "Adicto (with Anuel AA & Ozuna)"
+7 "Adore You"
+8 "After Hours"
+9 "All Around Me"
+10 "All I Want - From ""High School Musical: The Musical: The Series"""
+11 "All of Me"
+12 "Alone
+13 "At Least For Now"
+14 "Ayy Macarena"
+15 "Ballin' (with Roddy Ricch)"
+16 "Bandit (with YoungBoy Never Broke Again)"
+17 "Be Alright"
+18 "Beautiful People (feat. Khalid)"
+19 "Before You Go"
+20 "Bellaquita - Remix"
+21 "Better Now"
+22 "Black Swan"
+23 "Blinding Lights"
+24 "Blueberry Faygo"
+25 "Bohemian Rhapsody - 2011 Mix"
+26 "Break My Stride"
+27 "Breathe Deeper"
+28 "Broke In A Minute"
+29 "Can We Kiss Forever?"
+30 "Come Around Me"
+31 "Con Altura"
+32 "Con Calma"
+33 "DJ No Pare (feat. Zion
+34 "Dance Monkey"
+35 "Dancing With A Stranger (with Normani)"
+36 "Don't Start Now"
+37 "Eastside (with Halsey & Khalid)"
+38 "Forever (feat. Post Malone & Clever)"
+39 "Forever Yours - Avicii Tribute"
+40 "Futsal Shuffle 2020"
+41 "Get Me (feat. Kehlani)"
+42 "Get Me"
+43 "Get You The Moon (feat. Snøw)"
+44 "Girls Like You (feat. Cardi B)"
+45 "Give No Fxk"
+46 "Go Stupid"
+47 "God's Plan"
+48 "Godzilla (feat. Juice WRLD)"
+49 "Going Bad (feat. Drake)"
+50 "Good News"
+51 "Good as Hell (feat. Ariana Grande) - Remix"
+52 "Good as Hell (feat. Ariana Grande)"
+53 "Goodbyes (Feat. Young Thug)"
+54 "HIGHEST IN THE ROOM (feat. ROSAL�?A & Lil Baby) - REMIX"
+55 "HIGHEST IN THE ROOM"
+56 "Hate Me (with Juice WRLD)"
+57 "High Fashion (feat. Mustard)"
+58 "High Hopes"
+59 "Higher Love"
+60 "Hips Don't Lie (feat. Wyclef Jean)"
+61 "Hola - Remix"
+62 "Hot (Remix) [feat. Gunna and Travis Scott]"
+63 "How Do You Sleep?"
+64 "I Do It (ft. Big Sean
+65 "I Don't Care (with Justin Bieber)"
+66 "I Like Me Better"
+67 "If I Can't Have You"
+68 "If The World Was Ending (feat. Julia Michaels)"
+69 "Intentions (feat. Quavo)"
+70 "It's You"
+71 "Jocelyn Flores"
+72 "Kein Wort"
+73 "King Of My City"
+74 "Know Your Worth"
+75 "LA CANCIÓN"
+76 "Let Me Down Slowly"
+77 "Liberdade Provisória - Ao Vivo"
+78 "Life Is Good (feat. Drake)"
+79 "Lights Up"
+80 "Loco Contigo (feat. J. Balvin & Tyga)"
+81 "Lose Control"
+82 "Lose You To Love Me"
+83 "Lose Yourself - From ""8 Mile"" Soundtrack"
+84 "Lost In Yesterday"
+85 "Lucid Dreams"
+86 "ME! (feat. Brendon Urie of Panic! At The Disco)"
+87 "MIDDLE CHILD"
+88 "Me Gusta"
+89 "Mean It"
+90 "Might Not Give Up (feat. Young Thug)"
+91 "Mios mit Bars"
+92 "Mon Ami"
+93 "Money In The Grave (Drake ft. Rick Ross)"
+94 "My Oh My (feat. DaBaby)"
+95 "Never Seen the Rain"
+96 "No Guidance (feat. Drake)"
+97 "No Idea"
+98 "No Judgement"
+99 "No Me Conoce - Remix"
+100 "No Shame"
+101 "No Time To Die"
+102 "Numbers (feat. Roddy Ricch
+103 "OUT WEST (feat. Young Thug)"
+104 "Old Town Road - Remix"
+105 "One More Year"
+106 "Only Human"
+107 "Only The Young - Featured in Miss Americana"
+108 "Otro Trago - Remix"
+109 "Own It (feat. Ed Sheeran & Burna Boy)"
+110 "Pa' Olvidarme De Ella"
+111 "Perreo en La Luna"
+112 "Piece Of Your Heart"
+113 "QUE PRETENDES"
+114 "Que Calor (with J Balvin & El Alfa)"
+115 "Que Tire Pa Lante"
+116 "RITMO (Bad Boys For Life)"
+117 "Ride It"
+118 "Roses - Imanbek Remix"
+119 "Running Over (feat. Lil Dicky)"
+120 "SICKO MODE"
+121 "SLOW DANCING IN THE DARK"
+122 "Say So"
+123 "Say You Won't Let Go"
+124 "Second Emotion (feat. Travis Scott)"
+125 "Shape of You"
+126 "Si Te Vas"
+127 "Sigues Con El"
+128 "Soltera - Remix"
+129 "Someone You Loved"
+130 "South of the Border (feat. Camila Cabello & Cardi B)"
+131 "Still Be Friends (feat. Tory Lanez & Tyga)"
+132 "Sum 2 Prove"
+133 "Sunday Best"
+134 "Sunflower - Spider-Man: Into the Spider-Verse"
+135 "Sweet but Psycho"
+136 "TOES (feat. Lil Baby & Moneybagg Yo)"
+137 "Take It Out On Me"
+138 "Talk (feat. Disclosure)"
+139 "That's What Love Is"
+140 "The Box"
+141 "The Less I Know The Better"
+142 "The London (feat. J. Cole & Travis Scott)"
+143 "Those Kinda Nights (feat. Ed Sheeran)"
+144 "To Die For"
+145 "Too Good At Goodbyes"
+146 "Trampoline (with ZAYN)"
+147 "Truth Hurts"
+148 "Tudo Ok"
+149 "Turn Me On (feat. Vula)"
+150 "WHATS POPPIN"
+151 "Wake Up Call (feat. Trippie Redd)"
+152 "Watermelon Sugar"
+153 "What A Man Gotta Do"
+154 "What If I Told You That I Love You"
+155 "Whine Up"
+156 "Without Me"
+157 "Yellow Hearts"
+158 "Yo x Ti
+159 "You Need To Calm Down"
+160 "You should be sad"
+161 "all the good girls go to hell"
+162 "bad guy"
+163 "bury a friend"
+164 "death bed (feat. beabadoobee)"
+165 "everything i wanted"
+166 "hot girl bummer"
+167 "i love you"
+168 "lovely (with Khalid)"
+169 "me & ur ghost"
+170 "ocean eyes"
+171 "rockstar (feat. 21 Savage)"
+172 "thank u
+173 "when the party's over"
+174 "wish you were gay"
+175 "you should see me in a crown"
+176 Anyone
+177 Available
+178 Aventura
+179 BOP
+180 Baby
+181 Believer
+182 Birthday
+183 Blanco
+184 Borderline
+185 Bruises
+186 Callaita
+187 Changes
+188 China
+189 Circles
+190 Confirmation
+191 Definitivamente
+192 Diosa
+193 E.T.A.
+194 EARFQUAKE
+195 Eleven
+196 FML
+197 Falling
+198 Fantasias
+199 GOODMORNINGTOKYO!
+200 Girl
+201 Graveyard
+202 Habitual
+203 Happier
+204 Heartless
+205 I.F.L.Y.
+206 Ignorantes
+207 Indeciso
+208 Infeliz
+209 Intentions
+210 July
+211 Keii
+212 Lalala
+213 Liar
+214 Maniac
+215 Medusa
+216 Memories
+217 Moonlight
+218 Morado
+219 Muévelo
+220 Panini
+221 Perfect
+222 Photograph
+223 Physical
+224 Psycho
+225 Quizas
+226 ROXANNE
+227 Ransom
+228 Rare
+229 Robbery
+230 Run
+231 SAD!
+232 SUGAR
+233 Señorita
+234 Shallow
+235 Sucker
+236 Suge
+237 Suicidal
+238 Takeaway
+239 Thunder
+240 Tusa
+241 Tutu
+242 VIBEZ
+243 Vete
+244 Weiss
+245 Woah
+246 Wow.
+247 Yikes
+248 Youngblood
+249 Yummy
+250 goosebumps
+251 idontwannabeyouanymore
